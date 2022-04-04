@@ -1,0 +1,6 @@
+- Hi, I’m @josalbino!
+- I’m interested in a lot of technologies and all kind of techonologies involved in F1. 
+- Better knowledge in .Net and C#, but open to anything, like OutSystems, Python, JavaScript (mainly React.js and Vue.js), Java and many more.
+- Also interested in CyberSecurity and it's importance.
+- Currently studying Computer Engineering at Instituto Politécnico de Bragança.
+- To reach me, contact through email: albinojcar.99@gmail.com
